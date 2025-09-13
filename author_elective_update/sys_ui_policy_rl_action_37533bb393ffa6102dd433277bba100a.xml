@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="DELETE">
+        <list/>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-12 16:06:04</sys_created_on>
+        <sys_id>37533bb393ffa6102dd433277bba100a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_37533bb393ffa6102dd433277bba100a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-12 16:09:18</sys_updated_on>
+        <ui_policy display_value="Make field read only when assigned to fred">d4c0fb7f93bfa6102dd433277bba109f</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_rl_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2edc79e6ff14ea1cc812f8e4fc4fd936</instance_id>
+        <instance_name>dev301042</instance_name>
+        <name>sys_ui_policy_rl_action_37533bb393ffa6102dd433277bba100a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action"><sys_ui_policy_rl_action action="INSERT_OR_UPDATE"><list/><sys_class_name>sys_ui_policy_rl_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-12 16:06:04</sys_created_on><sys_id>37533bb393ffa6102dd433277bba100a</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_rl_action_37533bb393ffa6102dd433277bba100a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-12 16:09:18</sys_updated_on><ui_policy display_value="Make field read only when assigned to fred">d4c0fb7f93bfa6102dd433277bba109f</ui_policy><visible>false</visible></sys_ui_policy_rl_action></record_update>]]></payload>
+        <payload_hash>-1122066434</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>311f729393f326102dd433277bba1044</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-12 16:09:18</sys_created_on>
+        <sys_id>2c243bb393ffa6102dd433277bba1011</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1993eb02ff80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-12 16:09:18</sys_updated_on>
+        <type>UI Policy Related List Action</type>
+        <update_guid>a0243bb331ffa6100c731752d6d00f11</update_guid>
+        <update_guid_history>a0243bb331ffa6100c731752d6d00f11:-1122066434,5e73f7b3e9ffa61073b136956a51e3d0:-1640833095,5d637bb32dffa6100f9bc63fdb8a1cd4:-577424387</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-12 16:09:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_rl_action">sys_ui_policy_rl_action</sys_db_object>
+        <sys_id>057af94f74194cc08108aef574699d41</sys_id>
+        <sys_metadata>37533bb393ffa6102dd433277bba100a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_rl_action_37533bb393ffa6102dd433277bba100a</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_rl_action_37533bb393ffa6102dd433277bba100a">2c243bb393ffa6102dd433277bba1011</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-12 16:09:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
